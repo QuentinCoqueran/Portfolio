@@ -1,0 +1,149 @@
+.imgnav{
+    max-width: 4%;
+	height: auto;
+    float: left;
+    padding: 10px 0;
+    padding-left: 10px;
+}
+
+header{
+    background: lightseagreen;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+nav > ul{
+    margin: 0;
+    padding-right: 540px;
+    list-style: none;
+}
+
+nav > ul > li{
+    display: inline-block;
+    margin-left: 20px;
+    padding-top: 20px;
+
+    position: relative;
+}
+
+.submenu2 > li{
+    text-decoration: none;
+    color: #444;
+    font-size: 17px;
+    margin: 7px;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+}
+
+.sublien{
+    text-decoration: none;
+}
+
+.submenu > li{
+    color: #444;
+    font-size: 17px;
+    margin: 5px;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+}
+
+.sublien:hover{
+    color: black;
+    background-color: rgba(68, 68, 68, 0.5);
+}
+
+.lien{
+    margin: 8px;
+    color: #444;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+
+.liensub{
+    color: #444;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+nav li:hover .submenu2{
+    display: inline-block;
+    position: absolute;
+    top: 100%;
+    left: 0px;
+    padding: 0px;
+    z-index: 1000;
+}
+
+.submenu2 li a{
+   
+    display: block;
+    font-size: 13px;
+    color: #444;
+    width: 70px;
+}
+
+
+
+.submenu2{
+    list-style: none;
+    display: none;
+    background: lightseagreen;
+}
+
+nav li:hover .submenu{
+    display: inline-block;
+    position: absolute;
+    top: 100%;
+    left: 0px;
+    padding: 0px;
+    z-index: 1000;
+}
+
+.submenu li a{
+    display: block;
+    font-size: 13px;
+    color: #444;
+    width: 122px;
+}
+
+.submenu{
+    list-style: none;
+    display: none;
+    background: lightseagreen;
+}
+
+.menu{
+    float: right;
+}
+
+.lien:hover{
+    color: black;
+}
+
+.lien::before{
+    content: '';
+    display: block;
+    height: 5px;
+    width: 100%;
+    background-color: black;
+
+    position: absolute;
+    top: 0;
+    width: 0%;
+
+    transition: all ease-in-out 200ms;
+}
+
+.lien:hover::before{
+    width: 100%;
+}
