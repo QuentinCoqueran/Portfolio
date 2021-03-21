@@ -7,7 +7,7 @@
             <br>coqueranquentin@gmail.com
         </section>
         <div>
-            <a class="reseau" href="https://www.linkedin.com/in/quentin-coqueran-897923182/"><i class="fa fa-linkedin fa-2x"></i></a>
+            <a class="reseau" href="https://www.linkedin.com/in/quentin-coqueran-897923182/"><i class="fa fa-linkedin"></i></a>
         </div>
     </div>
 </footer>

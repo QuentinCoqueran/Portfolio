@@ -1,20 +1,20 @@
 body{
     margin: 0;
-    background: #222;
+    background:#232826;
 }
 
-.content {
+/* .content {
     height: 10000px
-}
+} */
 
 footer{
-    background: lightseagreen;
-    position: fixed;
-    padding-top: 15px;
+    background: #7EA0B7;
+    position: relative;
+    padding-top: 5px;
     left: 0;
     right: 0;
     bottom: 0;
-    height: 160px;
+    height: 135px;
     font-size: 18px;
 }
 
@@ -24,8 +24,44 @@ footer{
 }
 
 .adresse{
-    color: #444;
+    color: rgb(51, 51, 51);
 }
 .reseau{ 
-    color: #444;
+    color: rgb(51, 51, 51);
+}
+
+.presentationgen{
+    color: whitesmoke;
+    margin: 30px;
+    border: black solid 1px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(89, 112, 129, 0.3);
+    position: relative;
+}
+
+.presentationent{
+    color: whitesmoke;
+    margin: 30px;
+    border: black solid 1px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #597081;
+    position: relative;
+}
+
+.titrepresent{
+    color: whitesmoke;
+}
+
+.imgpp{
+    max-width: 10000000px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.imgpres{
+    max-width: 100%;
+	height: auto;
+    position: relative;
 }

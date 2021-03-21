@@ -7,7 +7,7 @@
 }
 
 header{
-    background: lightseagreen;
+    background: #7EA0B7;
 }
 
 header::after {
@@ -39,7 +39,7 @@ nav > ul > li{
     text-decoration: none;
     color: #444;
     font-size: 17px;
-    margin: 7px;
+    margin: 10px;
     text-transform: uppercase;
     border-bottom: 1px solid black;
 }
@@ -51,14 +51,14 @@ nav > ul > li{
 .submenu > li{
     color: #444;
     font-size: 17px;
-    margin: 5px;
+    margin: 8px;
     text-transform: uppercase;
     border-bottom: 1px solid black;
 }
 
 .sublien:hover{
     color: black;
-    background-color: rgba(68, 68, 68, 0.5);
+    background-color: rgba(68, 68, 68, 0.35);
 }
 
 .lien{
@@ -92,12 +92,11 @@ nav li:hover .submenu2{
     width: 70px;
 }
 
-
-
 .submenu2{
     list-style: none;
     display: none;
-    background: lightseagreen;
+    background: #7EA0B7;
+    border-radius: 6px;
 }
 
 nav li:hover .submenu{
@@ -113,13 +112,14 @@ nav li:hover .submenu{
     display: block;
     font-size: 13px;
     color: #444;
-    width: 122px;
+    width: 100px;
 }
 
 .submenu{
     list-style: none;
     display: none;
-    background: lightseagreen;
+    background:#7EA0B7;
+    border-radius: 6px;
 }
 
 .menu{

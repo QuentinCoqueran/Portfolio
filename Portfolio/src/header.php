@@ -16,12 +16,12 @@
             <img class="imgnav" src="../assets/img/logo.png">
             <nav class="menu">
                 <ul>
-                    <li><a href="#" class="lien presentation">Présentation</a></li>
+                    <li><a href="index.php" class="lien presentation">Présentation</a></li>
                     <li><a href="#" class="lien liensub">épreuve E6</a>
                         <ul class="submenu">
-                            <li><a href="#" class="sublien">Tableau de compétences</a></li>
-                            <li><a href="#" class="sublien">Missions en formation</a></li> 
-                            <li><a href="#" class="sublien">Missions en entreprise</a></li>
+                            <li><a href="tableau.php" class="sublien">Tableau de compétences</a></li>
+                            <li><a href="missionformation.php" class="sublien">Missions en formation</a></li> 
+                            <li><a href="missionentreprise.php" class="sublien">Missions en entreprise</a></li>
                         </ul>
                     </li>
                     <li><a href="#" class="lien">Epreuve E4</a></li>
