@@ -7,7 +7,7 @@
     <body class="content">
         <center>
             <div class="row">
-                <img class="imgpres" src="../assets/img/presentation.jpg">
+                <img class="imgpres" src="/assets/img/presentation.jpg">
                 <div class="col-lg-7">
                 </div>
                 <div class="col-lg-4">
@@ -27,7 +27,7 @@
                     <h1 class="titrepresent">MON ENTREPRISE</h1>
                     <br>
                     <br>
-                    <img class="imgpp" src="../assets/img/pplogo.png">
+                    <img class="imgpp" src="/assets/img/pplogo.png">
                     <article class="presentationent">
                         L'entreprise qui m'a accueilli est la Préfecture de Police, au sein du commissariat du 4ème arrondissement.
                         Le service ou j'effectue ma formation est le STI (Service des Technologies de l'Information), qui fait parti de la DSPAP
