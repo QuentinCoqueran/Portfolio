@@ -13,7 +13,7 @@
 
     <header>
         <div class="container topnav" id="myTopnav"></div>
-            <img class="imgnav" src="assets/img/logo.png">
+            <h1>Quentin COQUERAN</h1>
             <nav class="menu">
                 <ul>
                     <li><a href="index.php" class="lien presentation">Présentation</a></li>
