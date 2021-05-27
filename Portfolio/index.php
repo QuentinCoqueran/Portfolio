@@ -21,7 +21,7 @@
                     </article>
                 </div>
             </div>
-            <div class="row">
+            <div class="row titreent">
                 <div class="col-lg-2"></div>
                 <div class="col-lg-8">
                     <h1 class="titrepresent">MON ENTREPRISE</h1>

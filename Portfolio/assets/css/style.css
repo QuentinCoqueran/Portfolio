@@ -37,7 +37,7 @@ footer{
     padding: 10px;
     border-radius: 10px;
     background-color: rgba(89, 112, 129, 0.3);
-    position: relative;
+    position: absolute;
 }
 
 .presentationent{
@@ -54,8 +54,12 @@ footer{
     color: whitesmoke;
 }
 
+.titreent{
+    text-align: center;
+}
+
 .imgpp{
-    max-width: 10000000px;
+    max-width: 100%;
     height: auto;
     border-radius: 5px;
 }
