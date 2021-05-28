@@ -9,10 +9,8 @@
             <div class="row">
                 <div class="row espacehaut"></div>
                 <img class="imgpres" src="assets/img/presentation.jpg">
-                <div class="col-lg-3"></div>
-                
-                <div class="col-lg-7">
-                
+                <div class="col-lg-2"></div>
+                <div class="col-lg-8">
                     <article class="presentationgen">
                         Bienvenue sur mon Portfolio, il a été mis en place dans le but de vous présenter, les compétences acquises lors de mon alternance 
                         ,<br> l'entreprise qui m'a accueilli lors de ces deux années d'alternances ainsi que mon projet professionnel.<br>
@@ -48,6 +46,34 @@
                 </div>
                 <div class="col-lg-2"></div>
             </div>
+            <br>
+            <br>
+            <br>
+            <div class="row competence">
+                <h3 class="competitre">Mes compétences Proffessionelles</h3>
+                <br>
+                <hr class="hrcompt">
+                <br>
+                <br>
+                <div class="camenbert circlechart col-lg-2" data-percentage="90">HTML/CSS</div>
+                <div class="camenbert circlechart col-lg-2" data-percentage="80">PHP</div>
+                <div class="camenbert circlechart col-lg-2" data-percentage="75">Symfony</div>
+                <div class="camenbert circlechart col-lg-2" data-percentage="90">Git/Docker</div>
+                <div class="camenbert circlechart col-lg-2" data-percentage="70">Bootstrap</div>
+                <div class="camenbert circlechart col-lg-2" data-percentage="60">C#</div>
+                <br>
+                <br>
+                <div class="col-lg-2"><i class="icocomp fab fa-php"></i></div>
+                <div class="col-lg-2"><i class="icocomp fab fa-bootstrap"></i></div>
+                <div class="col-lg-2"><i class="icocomp fab fa-html5"></i><i class="fa fa-css3-alt"></i></div>
+                <div class="col-lg-2"><i class="icocomp fab fa-symfony"></i></div>
+                <div class="col-lg-2"><i class="icocomp fab fa-git"></i><i class="fa fa-docker"></i></div>
+                <div class="col-lg-2"><i class="icocomp fa fa-hashtag"></i></div>
+                <br>
+            </div>
+            <br>
+            <br>
+            <br>
         </center>
     </body>
     <div>
@@ -55,4 +81,8 @@
             <?php include_once("footer.php");?>
         </center>
     </div>
+    <script src="assets/libs/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/script.js"></script>
+    <link rel="stylesheet" href="assets/libs/jQuery-Plugin-SVG-Progress-Circle/progresscircle.css"><link>
+    <script src="assets/libs/jQuery-Plugin-SVG-Progress-Circle/progresscircle.js"></script>
 </html>  

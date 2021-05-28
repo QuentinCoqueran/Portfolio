@@ -107,3 +107,30 @@ footer{
     padding: 10px;
     border-radius: 10px;
 }
+
+.competitre{
+    color: whitesmoke;
+}
+
+.camenbert{
+    color: whitesmoke;
+}
+
+.hrcompt{
+    color: whitesmoke;
+}
+
+.competence{
+    color: whitesmoke;
+    margin: 30px;
+    border: black solid 1px;
+    padding: 10px;
+    border-radius: 10px;
+    background: rgb(105, 105, 105);
+    position: relative;
+}
+
+.icocomp{
+    font-size: 60px;
+    padding-top: 30px;
+}
