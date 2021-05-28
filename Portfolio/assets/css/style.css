@@ -1,6 +1,10 @@
-body{
+.body1{
     margin: 0;
     background:#232826;
+}
+
+.body2{
+    background:white;
 }
 
 /* .content {
@@ -31,13 +35,14 @@ footer{
 }
 
 .presentationgen{
-    color: whitesmoke;
+    color: black;
     margin: 30px;
     border: black solid 1px;
     padding: 10px;
     border-radius: 10px;
-    background-color: rgba(89, 112, 129, 0.3);
-    position: absolute;
+    background: rgb(126, 160, 183, 0.9);
+    position: relative;
+    font-size: 20px;
 }
 
 .presentationent{
@@ -46,26 +51,59 @@ footer{
     border: black solid 1px;
     padding: 10px;
     border-radius: 10px;
-    background-color: #597081;
+    background: rgb(105, 105, 105, 0.9);
     position: relative;
+    font-size: 18px;
 }
 
 .titrepresent{
     color: whitesmoke;
+    border: black solid 1px;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    background:rgb(105, 105, 105, 0.9);
+    position: relative;
 }
 
 .titreent{
     text-align: center;
+    position: relative;
 }
+
 
 .imgpp{
     max-width: 100%;
     height: auto;
     border-radius: 5px;
+    position: relative;
 }
 
 .imgpres{
-    max-width: 100%;
+    width: 100%;
 	height: auto;
+    position: absolute;
+}
+
+.espacehaut{
+    height: 100px;
     position: relative;
+}
+
+.espacehaut2{
+    height: 80px;
+    position: relative;
+}
+
+.titrepage{
+    position: relative;
+    font-size: 30px;
+    color: rgb(51, 51, 51);;
+}
+
+.mission{
+     border: black solid 1px;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
 }
