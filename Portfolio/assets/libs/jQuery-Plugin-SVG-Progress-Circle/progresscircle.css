@@ -22,7 +22,7 @@
 }
 
 .circle-chart__circle {
-  stroke: red;
+  stroke: #7ba2bd;
   stroke-width: 2;
   stroke-linecap: square;
   fill: none;

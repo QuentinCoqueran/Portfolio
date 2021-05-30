@@ -20,6 +20,7 @@ header{
     background: #7EA0B7;
     position: fixed;
     z-index: 999;
+    width: 100%;
 }
 
 header::after {
@@ -35,7 +36,7 @@ header::after {
 
 nav > ul{
     margin: 0;
-    padding-right: 540px;
+    padding-right: 600px;
     list-style: none;
 }
 

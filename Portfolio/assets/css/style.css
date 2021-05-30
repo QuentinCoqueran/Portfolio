@@ -40,7 +40,7 @@ footer{
     border: black solid 1px;
     padding: 10px;
     border-radius: 10px;
-    background: rgb(126, 160, 183, 0.9);
+    background: rgb(126, 160, 183, 0.95);
     position: relative;
     font-size: 20px;
 }
@@ -48,25 +48,28 @@ footer{
 .presentationent{
     color: whitesmoke;
     margin: 30px;
-    border: black solid 1px;
+    border: grey solid 1px;
     padding: 10px;
     border-radius: 10px;
-    background: rgb(105, 105, 105, 0.9);
+    background: rgb(105, 105, 105, 0.95);
     position: relative;
     font-size: 18px;
 }
 
 .titrepresent{
     color: whitesmoke;
-    border: black solid 1px;
-    align-items: center;
-    padding: 10px;
+    border: grey solid 1px;
+
     border-radius: 10px;
-    background:rgb(105, 105, 105, 0.9);
+    background:rgb(105, 105, 105, 0.95);
     position: relative;
+    
+}
+.titreent{
+    color: whitesmoke;
 }
 
-.titreent{
+.titreent2{
     text-align: center;
     position: relative;
 }
@@ -123,7 +126,7 @@ footer{
 .competence{
     color: whitesmoke;
     margin: 30px;
-    border: black solid 1px;
+    border: grey solid 1px;
     padding: 10px;
     border-radius: 10px;
     background: rgb(105, 105, 105);
@@ -133,4 +136,9 @@ footer{
 .icocomp{
     font-size: 60px;
     padding-top: 30px;
+}
+
+comp2{
+
+
 }
