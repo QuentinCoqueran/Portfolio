@@ -28,8 +28,8 @@
                     <li><a href="#" class="lien">PPE</a></li>
                     <li><a href="#" class="lien liensub">Veillles</a>
                         <ul class="submenu2">
-                            <li><a href="#" class="sublien">Le Wifi 6</a></li>
-                            <li><a href="#" class="sublien">La CNIL</a></li> 
+                            <li><a href="wifi6.php" class="sublien">Le Wifi 6</a></li>
+                            <li><a href="cnil.php" class="sublien">La CNIL</a></li> 
                         </ul>
                     </li>
                     <li><a href="cv.php" class="lien">Curiculum Vitae</a></li>

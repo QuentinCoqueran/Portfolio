@@ -143,6 +143,29 @@ footer{
     padding-top: 30px;
 }
 
+.titreveilletech{
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+.textveilletech{
+    color: whitesmoke;
+    text-decoration: whitesmoke;
+}
+
+.textewifi1{
+    text-align: left;
+}
+
+.imgwifi{
+    width: 55%;
+    float: right;
+}
+
+.hrblanc{
+    color: whitesmoke;
+}
+
 comp2{
 
 
