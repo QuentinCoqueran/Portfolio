@@ -8,7 +8,7 @@
         <div class="row espacehaut"></div>
         <center>
             <div class="row textveilletech">
-                    <h1 class="titreveilletech">LE WIFI 6</h1>
+                    <h1 class="titreveilletech">LA CNIL</h1>
                     <hr class="hrblanc">
             </div>
         </center>
