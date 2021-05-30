@@ -32,7 +32,7 @@
                             <li><a href="#" class="sublien">La CNIL</a></li> 
                         </ul>
                     </li>
-                    <li><a href="#" class="lien">Curiculum Vitae</a></li>
+                    <li><a href="cv.php" class="lien">Curiculum Vitae</a></li>
                 </ul>
             </nav>
         </div>
