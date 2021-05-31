@@ -37,7 +37,7 @@
                     <br>
                     <img class="imgpp" src="assets/img/pplogo.png">
                     <article class="presentationent">
-                        L'entreprise qui m'a accueilli est la Préfecture de Police, au sein du commissariat du 4ème arrondissement.<br>
+                        L'entreprise qui m'a accueilli est la Préfecture de Police, au sein du commissariat du 4<sup>ème</sup> arrondissement.<br>
                         Le service ou j'effectue ma formation est le STI (Service des Technologies de l'Information),<br> qui fait parti de la DSPAP
                         (Direction de Sécurité de Proximité de l'Agglomération Parisienne), elle même au sein de la SDSO 
                         (Sous-Direction des Services Opérationnels).<br> Le STI compte environ 100 personnes.

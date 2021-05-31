@@ -35,7 +35,7 @@ footer{
 }
 
 .presentationgen{
-    color: black;
+    color:whitesmoke;
     margin: 30px;
     border: black solid 1px;
     padding: 10px;
@@ -106,14 +106,16 @@ footer{
 .titrepage{
     position: relative;
     font-size: 30px;
-    color: rgb(51, 51, 51);;
+    color: whitesmoke;
 }
 
 .mission{
-     border: black solid 1px;
+    border: black solid 1px;
     align-items: center;
     padding: 10px;
     border-radius: 10px;
+    background-color: rgb(105, 105, 105);
+    color: whitesmoke;
 }
 
 .competitre{
@@ -166,7 +168,21 @@ footer{
     color: whitesmoke;
 }
 
-comp2{
+.imgcalcu{
+    position: relative;
+}
 
+.imgchat{
+    width: 400px;
+}
 
+.imgmission
+{
+    height: 180px;
+}
+
+.imgreseau
+{
+    height: 650px;
+    width: auto;
 }
