@@ -83,7 +83,7 @@
                 <div class="col-lg-4 mission">
                     <img class="imgcalcu imgmission" src="assets/img/ecriture.png">
                     <br>
-                    <h3>Creation et modification de fichier en C#</h3>
+                    <h3>Création et modification de fichier en C#</h3>
                     <hr class="hrcompt">
                     <a href="ecriturefichier.php" class="btn btn-warning">Consulter</a>
                 </div>
@@ -103,7 +103,7 @@
                 <div class="col-lg-4 mission">
                     <img class="imgcalcu imgmission" src="assets/img/justeprix.jpg">
                     <br>
-                    <h3>Creation d'un jeu du juste prix</h3>
+                    <h3>Création d'un jeu du juste prix</h3>
                     <hr class="hrcompt">
                     <a href="justeprix.php" class="btn btn-dark">Consulter</a>
                 </div>

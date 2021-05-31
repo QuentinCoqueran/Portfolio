@@ -59,12 +59,11 @@ footer{
 .titrepresent{
     color: whitesmoke;
     border: grey solid 1px;
-
     border-radius: 10px;
     background:rgb(105, 105, 105, 0.95);
     position: relative;
-    
 }
+
 .titreent{
     color: whitesmoke;
 }
@@ -120,6 +119,7 @@ footer{
 
 .competitre{
     color: whitesmoke;
+    text-transform: uppercase;
 }
 
 .camenbert{

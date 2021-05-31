@@ -8,7 +8,7 @@
         <div class="row espacehaut"></div>
         <center>
             <div class="row textveilletech">
-                <h1 class="titreveilletech">LE WIFI 6</h1>
+                <h1 class="titreveilletech"><b>LE WIFI 6</b></h1>
                 <hr class="hrblanc">
             </div>
             <br>
@@ -123,6 +123,7 @@
                     La nouvelle norme étant beaucoup plus claire je pense cependant que d’ici quelques années tous les constructeurs l’utiliseront.<br>
                     <br>
                 </article>
+                <a href="http://www.pearltrees.com/coqueranquentin"><button class="btn btn-light">Lien vers mon Pearltrees</button></a>
             </div>
         </center>
         <div class="row espacebas"></div>

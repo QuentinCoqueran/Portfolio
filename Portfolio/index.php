@@ -26,7 +26,7 @@
             <div class="row">
                 <div class="col-lg-5"></div>
                 <div class="col-lg-2 titrepresent">
-                    <h1 class="titreent">MON ENTREPRISE D'APPRENTISSAGE</h1>
+                    <h1 class="titreent"><b>MON ENTREPRISE D'APPRENTISSAGE</b></h1>
                 </div>
                 <div class="col-lg-5"></div>
             </div>
@@ -53,7 +53,7 @@
             <br>
             <br>
             <div class="row competence">
-                <h3 class="competitre">Mes compétences Proffessionelles</h3>
+                <h3 class="competitre"><b>MES COMPéTENCES PROFFESSIONNELLES</b></h3>
                 <br>
                 <hr class="hrcompt">
                 <br>
@@ -69,7 +69,7 @@
                 <div class="col-lg-2"><i class="icocomp fab fa-html5"></i>&nbsp&nbsp<i class="icocomp fab fa-css3-alt"></i></div>
                 <div class="col-lg-2"><i class="icocomp fab fa-php"></i></div>
                 <div class="col-lg-2"><i class="icocomp fab fa-symfony"></i></div>
-                <div class="col-lg-2"><i class="icocomp fab fa-git"></i><i class="fa fa-docker"></i></div>
+                <div class="col-lg-2"><i class="icocomp fab fa-git"></i>&nbsp&nbsp<i class="icocomp fab fa-docker"></i></div>
                 <div class="col-lg-2"><i class="icocomp fab fa-bootstrap"></i></div>
                 <div class="col-lg-2"><i class="icocomp fa fa-hashtag"></i></div>
                 <br>

@@ -64,7 +64,7 @@
             <div class="col-lg-4 mission">
                 <img class="imgcalcu imgmission" src="assets/img/vue_form.png">
                 <br>
-                <h3>Création d'une requête et d'une vue de consulation de données</h3>
+                <h3>Création d'une requête et d'une vue de consultation de données</h3>
                 <hr class="hrcompt">
                 <a href="vue_formulaires.php" class="btn btn-warning">Consulter</a>
             </div>
@@ -86,7 +86,7 @@
                 <br>
                 <h3>Réalisation d'un schéma d'architecture réseau des plateformes</h3>
                 <hr class="hrcompt">
-                <a href="reseau.php" class="btn btn-warning">Consulter</a>
+                <a href="reseau.php" class="btn btn-dark">Consulter</a>
             </div>
             <div class="col-lg-1"></div>
         </div>
