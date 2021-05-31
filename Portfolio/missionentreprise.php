@@ -84,7 +84,7 @@
             <div class="col-lg-4 mission">
                 <img class="imgchat imgmission" src="assets/img/reseau.png">
                 <br>
-                <h3>Réalisation d'un schéma d'architecture réseau des plateformes</h3>
+                <h3>Réalisation d'un schéma d'architecture réseau des plateformes de l'unité</h3>
                 <hr class="hrcompt">
                 <a href="reseau.php" class="btn btn-dark">Consulter</a>
             </div>
