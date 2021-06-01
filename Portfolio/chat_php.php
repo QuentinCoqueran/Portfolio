@@ -9,7 +9,7 @@
         <center>
             <div class="col-lg-1"></div>
             <div class="col-lg-10" style="padding: 10px; box-shadow: 0px 0px 4px 3px rgba(0,0,0,0.1); background-color: white; border-radius: 7px;" align="center">
-                <embed src="assets/docs/Fiche_mission_journalisation.pdf" type="application/pdf" style="min-height:1000px" width="100%">
+                <embed src="assets/docs/Fiche_mission_chat.pdf" type="application/pdf" style="min-height:1000px" width="100%">
             </div>
             <div class="col-lg-1"></div>
         </center>

@@ -45,7 +45,7 @@
                     <br>
                     <h3>Création d'un pendu en Javascript</h3>
                     <hr class="hrcompt">
-                    <a href="pendu.php" class="btn btn-warning">Consulter</a>
+                    <a href="pendu.php" class="btn btn-dark">Consulter</a>
                 </div>
                 <div class="col-lg-1"></div>
             </div>
@@ -77,7 +77,7 @@
                     <br>
                     <h3>Création d'un chat en PHP</h3>
                     <hr class="hrcompt">
-                    <a href="chat_php.php" class="btn btn-warning">Consulter</a>
+                    <a href="chat_php.php" class="btn btn-dark">Consulter</a>
                 </div>
                 <div class="col-lg-2"></div>
                 <div class="col-lg-4 mission">
