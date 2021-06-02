@@ -24,8 +24,7 @@
                             <li><a href="missionentreprise.php" class="sublien"><b>Missions en entreprise</b></a></li>
                         </ul>
                     </li>
-                    <li><a href="#" class="lien"><b>épreuve E4</b></a></li>
-                    <li><a href="#" class="lien"><b>PPE</b></a></li>
+                    <li><a href="e4.php" class="lien"><b>épreuve E4</b></a></li>
                     <li><a href="#" class="lien liensub"><b>Veillles</b></a>
                         <ul class="submenu2">
                             <li><a href="wifi6.php" class="sublien"><b>Le Wifi 6</b></a></li>

@@ -18,7 +18,7 @@
                 <br>
                 <h3>Création d'un texte adaptatif pour PCIO</h3>
                 <hr class="hrcompt">
-                <a href="texte_pcio.php" class="btn btn-warning">Consulter</a>
+                <a href="texte_pcio.php" class="btn btn-warning"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
             </div>
             <div class="col-lg-2"></div>
             <div class="col-lg-4 mission">
@@ -26,7 +26,7 @@
                 <br>
                 <h3>Sécurisation de la connexion de RAPID</h3>
                 <hr class="hrcompt">
-                <a href="rapid.php" class="btn btn-dark">Consulter</a>
+                <a href="rapid.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
             </div>
             <div class="col-lg-1"></div>
         </div>
@@ -38,7 +38,7 @@
                 <br>
                 <h3>Configuration d'un raspberry pour PCIO</h3>
                 <hr class="hrcompt">
-                <a href="rasb_pcio.php" class="btn btn-warning">Consulter</a>
+                <a href="rasb_pcio.php" class="btn btn-warning"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
             </div>
             <div class="col-lg-2"></div>
             <div class="col-lg-4 mission">
@@ -46,7 +46,7 @@
                 <br>
                 <h3>Création d'articles sur le blog NEO</h3>
                 <hr class="hrcompt">
-                <a href="neo.php" class="btn btn-dark">Consulter</a>
+                <a href="neo.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
             </div>
             <div class="col-lg-1"></div>
         </div>
@@ -58,7 +58,7 @@
                 <br>
                 <h3>Création d'un chat en Websockets</h3>
                 <hr class="hrcompt">
-                <a href="chat_websocket.php" class="btn btn-dark">Consulter</a>
+                <a href="chat_websocket.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
             </div>
             <div class="col-lg-2"></div>
             <div class="col-lg-4 mission">
@@ -66,7 +66,7 @@
                 <br>
                 <h3>Création d'une requête et d'une vue de consultation de données</h3>
                 <hr class="hrcompt">
-                <a href="vue_formulaires.php" class="btn btn-warning">Consulter</a>
+                <a href="vue_formulaires.php" class="btn btn-warning"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
             </div>
             <div class="col-lg-1"></div>
         </div>
@@ -78,7 +78,7 @@
                 <br>
                 <h3>Développement de l'application Formulaires</h3>
                 <hr class="hrcompt">
-                <a href="formulaires.php" class="btn btn-warning">Consulter</a>
+                <a href="formulaires.php" class="btn btn-warning"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
             </div>
             <div class="col-lg-2"></div>
             <div class="col-lg-4 mission">
@@ -86,7 +86,7 @@
                 <br>
                 <h3>Réalisation d'un schéma d'architecture réseau des plateformes de l'unité</h3>
                 <hr class="hrcompt">
-                <a href="reseau.php" class="btn btn-dark">Consulter</a>
+                <a href="reseau.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
             </div>
             <div class="col-lg-1"></div>
         </div>

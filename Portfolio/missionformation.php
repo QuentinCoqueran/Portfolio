@@ -17,7 +17,7 @@
                     <br>
                     <h3>Création d'une calculatrice en Windows form</h3>
                     <hr class="hrcompt">
-                    <a href="calculatrice.php" class="btn btn-dark">Consulter</a>
+                    <a href="calculatrice.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-2"></div>
                 <div class="col-lg-4 mission">
@@ -25,7 +25,7 @@
                     <br>
                     <h3>Création d'un morpion en en C#</h3>
                     <hr class="hrcompt">
-                    <a href="morpion.php" class="btn btn-dark">Consulter</a>
+                    <a href="morpion.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-1"></div>
             </div>
@@ -37,7 +37,7 @@
                     <br>
                     <h3>Création d'un site web dynamique PPE</h3>
                     <hr class="hrcompt">
-                    <a href="site_belletable.php" class="btn btn-dark">Consulter</a>
+                    <a href="site_belletable.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-2"></div>
                 <div class="col-lg-4 mission">
@@ -45,7 +45,7 @@
                     <br>
                     <h3>Création d'un pendu en Javascript</h3>
                     <hr class="hrcompt">
-                    <a href="pendu.php" class="btn btn-dark">Consulter</a>
+                    <a href="pendu.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-1"></div>
             </div>
@@ -57,7 +57,7 @@
                     <br>
                     <h3>Création d'un SCRUD</h3>
                     <hr class="hrcompt">
-                    <a href="scrud.php" class="btn btn-dark">Consulter</a>
+                    <a href="scrud.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-2"></div>
                 <div class="col-lg-4 mission">
@@ -65,7 +65,7 @@
                     <br>
                     <h3>Journalisation de logs</h3>
                     <hr class="hrcompt">
-                    <a href="journalisation.php" class="btn btn-dark">Consulter</a>
+                    <a href="journalisation.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-1"></div>
             </div>
@@ -77,7 +77,7 @@
                     <br>
                     <h3>Création d'un chat en PHP</h3>
                     <hr class="hrcompt">
-                    <a href="chat_php.php" class="btn btn-dark">Consulter</a>
+                    <a href="chat_php.php" class="btn btn-dark"><i class="icommiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-2"></div>
                 <div class="col-lg-4 mission">
@@ -85,7 +85,7 @@
                     <br>
                     <h3>Création et modification de fichier en C#</h3>
                     <hr class="hrcompt">
-                    <a href="ecriturefichier.php" class="btn btn-warning">Consulter</a>
+                    <a href="ecriturefichier.php" class="btn btn-warning"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-1"></div>
             </div>
@@ -97,7 +97,7 @@
                     <br>
                     <h3>Création d'une application de gestion de salons en C#</h3>
                     <hr class="hrcompt">
-                    <a href="belletablesalons.php" class="btn btn-warning">Consulter</a>
+                    <a href="belletablesalons.php" class="btn btn-warning"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-2"></div>
                 <div class="col-lg-4 mission">
@@ -105,7 +105,7 @@
                     <br>
                     <h3>Création d'un jeu du juste prix</h3>
                     <hr class="hrcompt">
-                    <a href="justeprix.php" class="btn btn-dark">Consulter</a>
+                    <a href="justeprix.php" class="btn btn-dark"><i class="icomiss far fa-file-pdf"></i>&nbspConsulter</a>
                 </div>
                 <div class="col-lg-1"></div>
             </div>
