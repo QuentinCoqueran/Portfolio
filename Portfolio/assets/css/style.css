@@ -155,12 +155,25 @@ footer{
     text-decoration: whitesmoke;
 }
 
+.textecnil{
+    text-align: left;
+}
+
 .textewifi1{
     text-align: left;
 }
 
+.textewifi2{
+    text-align: center;
+}
+
 .imgwifi{
     width: 55%;
+    float: right;
+}
+
+.imgcnil{
+    width: 65%;
     float: right;
 }
 
